@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "General\General.csproj", "{E1BF71B8-9735-4247-8F19-C82739D07150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{61FB21E5-CB52-45BA-938E-3255529CBD99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics", "Physics\Physics.csproj", "{68DF2A08-5DD8-4F3B-90F1-E822F3123626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BF71B8-9735-4247-8F19-C82739D07150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BF71B8-9735-4247-8F19-C82739D07150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BF71B8-9735-4247-8F19-C82739D07150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BF71B8-9735-4247-8F19-C82739D07150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FB21E5-CB52-45BA-938E-3255529CBD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FB21E5-CB52-45BA-938E-3255529CBD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FB21E5-CB52-45BA-938E-3255529CBD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FB21E5-CB52-45BA-938E-3255529CBD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DF2A08-5DD8-4F3B-90F1-E822F3123626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DF2A08-5DD8-4F3B-90F1-E822F3123626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DF2A08-5DD8-4F3B-90F1-E822F3123626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DF2A08-5DD8-4F3B-90F1-E822F3123626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
