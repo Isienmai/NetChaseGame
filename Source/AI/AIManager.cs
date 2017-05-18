@@ -8,8 +8,8 @@ namespace AI
 {
 	public class AIManager
 	{
-		//recommended values of 8 during debug, and 50 during release, to keep the framerate low enough for the physics to remain stable.
-        public const int MAX_AI_COUNT = 50;
+		//recommended values of 8 during debug, and 30 during release, to keep the framerate low enough for the physics to remain stable.
+        public const int MAX_AI_COUNT = 30;
         public const float timeBetweenSpawns = 2.0f;
 
 		//store the size of the viewport

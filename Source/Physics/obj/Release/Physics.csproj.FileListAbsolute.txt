@@ -13,3 +13,8 @@ F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\Physics\bin\
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\Physics\bin\Release\Physics.pdb
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\Physics\obj\Release\Physics.dll
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\Physics\obj\Release\Physics.pdb
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\Physics\bin\Release\Physics.dll
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\Physics\bin\Release\Physics.pdb
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\Physics\obj\Release\Physics.csprojResolveAssemblyReference.cache
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\Physics\obj\Release\Physics.dll
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\Physics\obj\Release\Physics.pdb

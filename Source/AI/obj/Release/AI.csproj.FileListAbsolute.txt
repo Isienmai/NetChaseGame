@@ -19,3 +19,10 @@ F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\AI\bin\Relea
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\AI\obj\Release\AI.csprojResolveAssemblyReference.cache
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\AI\obj\Release\AI.dll
 F:\Documents\1-NewOrganise\Work\UNI\year4\Game Behavior\Ass2\Source\AI\obj\Release\AI.pdb
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\bin\Release\AI.dll
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\bin\Release\AI.pdb
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\bin\Release\Physics.dll
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\bin\Release\Physics.pdb
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\obj\Release\AI.csprojResolveAssemblyReference.cache
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\obj\Release\AI.dll
+F:\Documents\1-NewOrganise\Programming\1--GITHUBSOURCE--1\NetChaseGame\Source\AI\obj\Release\AI.pdb
